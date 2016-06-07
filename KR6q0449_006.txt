@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:52:16.969371
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:42
 #+TITLE: 吹萬禪師語錄
 #+PROPERTY: CBETA_ID J29nB239
 #+PROPERTY: ID KR6q0449
@@ -13,7 +13,7 @@
  吹萬禪師語錄卷之六¶
 嗣法孫燈來重編¶
 
-頌古一¶
+* 頌古一¶
 
 「世尊上座文殊白椎。」¶
 
